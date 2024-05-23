@@ -1,0 +1,14 @@
+/Users/lakinduhewawasam/Desktop/tutorial/Http/bin/Debug/net8.0/Http
+/Users/lakinduhewawasam/Desktop/tutorial/Http/bin/Debug/net8.0/Http.deps.json
+/Users/lakinduhewawasam/Desktop/tutorial/Http/bin/Debug/net8.0/Http.runtimeconfig.json
+/Users/lakinduhewawasam/Desktop/tutorial/Http/bin/Debug/net8.0/Http.dll
+/Users/lakinduhewawasam/Desktop/tutorial/Http/bin/Debug/net8.0/Http.pdb
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.AssemblyInfoInputs.cache
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.AssemblyInfo.cs
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.csproj.CoreCompileInputs.cache
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.dll
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/refint/Http.dll
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.pdb
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/Http.genruntimeconfig.cache
+/Users/lakinduhewawasam/Desktop/tutorial/Http/obj/Debug/net8.0/ref/Http.dll

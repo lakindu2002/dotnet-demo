@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <!-- Version of framework the component is targeted towards -->
+        <TargetFramework>net8.0</TargetFramework>
+        <!-- Output type of the component: Outputs an EXE file that can be executed -->
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+    <ItemGroup>
+        <!-- Used to specify the files that are included in the project -->
+        <FrameworkReference Include="Microsoft.AspNetCore.App" Version="8.0.0" />
+    </ItemGroup>
+</Project>
